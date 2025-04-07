@@ -1,0 +1,132 @@
+{
+    "speakers": [],
+    "chunks": [
+        {
+            "timestamp": [
+                0.0,
+                127.3
+            ],
+            "text": "Hi everyone, welcome back to my video series how we can optimize learning models in life using the RT sensor.Okay, in the previous video I have given a trend model, so you can use it.And in this video I will show how we can create a trend model using this code.Okay, we build a network using hard.Okay we can open this file in the code here.Okay, we build our network using hard.Okay, we can open this file code here.Okay, and we will discuss one by one from the block code here.Okay, we go to top 1. Okay, as usual we mention the models needed here.In this block of code we determine our configuration such as the dimensions of the image we use 28 x 28 because we use a sweet dataset and then this is to make our red image set into one here and then in this block of code we are on our dataset on the dataset menis training and testing, I can show here this is my functioning connectionHaving 3 classes, 0 1 and 2 let's open for example 1 here okay and this is all one digit image okay and also for the exam will be different 0 1 and 2 so you can also adjust your own dataset by setting like this different folder u, testing and training and also in training and testing, we also need to separate for each class, 0, 1, 2 and so on.We are for and also Bed Size Training for 5 here"
+        },
+        {
+            "timestamp": [
+                127.3,
+                130.66
+            ],
+            "text": "Okay, and in this block of code"
+        },
+        {
+            "timestamp": [
+                130.66,
+                133.9
+            ],
+            "text": "We determine how we can read our dataset"
+        },
+        {
+            "timestamp": [
+                133.9,
+                135.4
+            ],
+            "text": "In this dataset"
+        },
+        {
+            "timestamp": [
+                135.4,
+                136.5
+            ],
+            "text": "Okay"
+        },
+        {
+            "timestamp": [
+                136.5,
+                138.5
+            ],
+            "text": "Sorry, on this dataset"
+        },
+        {
+            "timestamp": [
+                138.5,
+                141.6
+            ],
+            "text": "in hard we can use this block of code"
+        },
+        {
+            "timestamp": [
+                141.6,
+                144.1
+            ],
+            "text": "This comes from training"
+        },
+        {
+            "timestamp": [
+                144.1,
+                146.6
+            ],
+            "text": "Okay, and also testing here"
+        },
+        {
+            "timestamp": [
+                146.6,
+                227.92
+            ],
+            "text": "Okay, both of them are actually the same.Just use this block of code.It consists of training, okay, and also testing here.Okay, both of them actually are similar.We Define Image Data Generator by Normalizing Our Pixel Intensity into Zero Until One by dividing with 255 here.And then for the Train Generator, we can define with this parameter of data train dir means this one, the path of our training data.And then the color mode we define using grayscale.And the next is the target size we define 28 by 28. and also bed size we define by five years.And then and then for class mode we use the category after because we have more than two classes in our dataset.And also like that in the exam generator here.Okay, we can just run this block of code.And then we will determine to find our network, okay.So in hard we need to mention this model sequential here.And then adding the layer in hard is very easy, we can only use the model.add.And in this line of code we add the convolution layer.Okay, this is the number of filters.In layer 1 I pressed this, I thought we could"
+        },
+        {
+            "timestamp": [
+                227.92,
+                287.62
+            ],
+            "text": "Only lower to smaller numbers, for example 20, 20, this is 50, this is for example 10, and then this is a 5x5 filter size and this is a shape of shapes that have the correction with this.Okay, this can be an order input depth image width image height and can also be like this, width height depth.So this block of code will detect and we can mention this variable for use in this line of code.Okay, and then we set padding the same because we want the output layer convolution to be the same size from input.So we can mention it like this.And this is the name of the input tensor.I gave the name of the input tensor.Okay so later if we want to mention"
+        },
+        {
+            "timestamp": [
+                287.62,
+                408.56
+            ],
+            "text": "Our tensor can only adjust this tensor input.That is why in the previous video I can mention the input tensor by using the input tensor.Okay and then we add an active function which is a run here.Okay, and so on we add max pooling using the size of 2 x 2u here.Okay, and next we add max pooling by using size of 2 by 2 here.Okay, and then we define the second layer which is similar with this first layer.Okay, and the only difference is this number filter of layer 2 here I define.I also use the same number here.Or you can actually set other own values ​​okay and then this is completely and we can only go to the third layer, we also add the Convolution and then we add the activity function using the Relu here and then we want to add a full layer to add to add the layer that has been connected, we need to limit our output in the layer that has been connected.We can use Flatten Adds like this.And then we add the layer that has been connected using this line of code ... ADD10 here and then the number of nodes in the layer that has been connected.And I add 10 here. This, and the node number in the layer that has been connected, and I put 10 here okay, and I put the Function Activation to mean Relu and for the output, I call how many classes in my dataset by calling my trend generator here, related to this trend generator will detect automatically, in this case we have 3 classes, 0, 1, 2 here.And then return to the code here.And we suppress activation as softmake here.And then we give the name of this sensor output as outputtensor. I can also mention this sensor to get a prediction sensor."
+        },
+        {
+            "timestamp": [
+                409.2,
+                414.4
+            ],
+            "text": "Okay, and finally we can collect our network by using.Compile"
+        },
+        {
+            "timestamp": [
+                414.4,
+                418.56
+            ],
+            "text": "And we use the loss function using the Cross Entropy word codical."
+        },
+        {
+            "timestamp": [
+                419.28,
+                421.84
+            ],
+            "text": "Okay, because we have more than two classes."
+        },
+        {
+            "timestamp": [
+                421.84,
+                426.0
+            ],
+            "text": "And then we use the optimizer using Stochastic Gradient Descent"
+        },
+        {
+            "timestamp": [
+                426.0,
+                448.4
+            ],
+            "text": "And in the exercise process we want to print accuracy and in this line of code we want to see the summary model like this we can work on this block of code, click, this is our network okay, and this is a total parameter, trainable parameter, identification, and unconcerned parameters."
+        },
+        {
+            "timestamp": [
+                448.4,
+                611.96
+            ],
+            "text": "We have 0 here.And the next block here, we can set our model here by using our dataset here, okay, okay, down, using this fire, model.fitgenerator, okay?And this is the input argument.This is the train generator correspond to our generator training we ever define here.Okay?And then this is the step per epoch.It corresponds to how with how many images we have in the Divided by Bed Size Train Generator and this is also the epoch that we set 2 EPOCH above and this is also for the same validation as this we use the Testing Generator and also the validation number step, we determine how many images in the testing generator are divided by batch size.Okay we can only run the block of code by clicking this pattern run.Okay, we start combining accuracy for only small network.Like this one our network.Okay and Finally We Can Save Our Train Model here by using this model.save and we we want to save this trend model using the model.save and we want to store in this path directory.Okay, we can click Run Button to save.The trending is complete, the model has been saved.We can see here, model, we can be the last modification.Okay, this one, the Linux 5.85 model here.Okay, that's all we can combine hard models using our own dataset.Again, you can combine your own dataset, based on your own goals.And then you can also combine your network here.Okay, and finally you can save using this code block.And then in the next video, I will show you how you can use the model that is stored in this hard to do storage in hard.Okay, see you in the next video.Ситры дел Dimatorzok"
+        }
+    ],
+    "text": " Hai semua, selamat datang kembali di video saya seri bagaimana kita bisa mengoptimasi model pembelajaran dalam hidup dengan menggunakan sensor RT. Oke, dalam video sebelumnya saya sudah memberikan model tren, agar Anda bisa menggunakannya. Dan dalam video ini saya akan menunjukkan bagaimana kita bisa membuat model tren dengan menggunakan kode ini. Oke, kita membangun jaringan dengan menggunakan Keras. Oke kita bisa buka file ini di kode disini. Oke, kita membangun jaringan kita dengan menggunakan Keras. Oke, kita bisa membuka file ini kode disini. Oke, dan kita akan membahas satu per satu dari kode blok disini. Oke, kita pergi ke top 1. Oke, seperti biasa kita menyebutkan model yang diperlukan disini. di dalam block of code ini kita menentukan konfigurasi kita seperti dimensi gambar yang kita gunakan 28 x 28 karena kita menggunakan dataset manis dan kemudian ini untuk membuat gambar merah kita menetapkan menjadi satu di sini dan kemudian di dalam block of code ini kita menentalan dataset kita di dataset menis training and testing, saya bisa menunjukkan di sini Ini adalah koneksi saya yang berfungsi, di dataset menis testing and training mari kita buka salah satu dari mereka, kita pilih training di sini dan saya memiliki 3 kelas, 0 1 dan 2 mari kita buka contohnya 1 disini oke dan ini semua satu digit image oke dan juga untuk ujian akan berbeda 0 1 dan 2 jadi Anda juga bisa menyesuaikan dataset Anda sendiri dengan mengatur seperti ini folder yang berbeda u, testing dan training Dan juga di training dan testing, kita juga perlu memisahkan untuk setiap kelas, 0, 1, 2 dan sebagainya Anda bisa mengatur dataset dengan dataset Anda sendiri Oke, mari kita kembali ke kode ini Dan kita menentukan epoch kita untuk dan juga bed size training untuk 5 disini oke, dan di block of code ini kita menentukan bagaimana kita bisa membaca dataset kita di dataset ini oke maaf, di dataset ini di Keras kita bisa menggunakan block of code ini ini berasal dari training oke, dan juga testing disini oke, kedua-duanya sebenarnya sama Terima kasih. just use this block of code. It consists of training, okay, and also testing here. Okay, both of them actually are similar. We define image data generator by normalizing our pixel intensity into zero until one by dividing with 255 here. And then for train generator, we can define with this parameter train data dir means this one, the path of our training data. And then the color mode we define using grayscale. And the next is target size we define 28 by 28. And also bed size we define by five year. And then Dan kemudian untuk mode kelas kita menggunakan kategori setelah karena kita memiliki lebih dari dua kelas di dataset kita. Dan juga semacamnya di generator ujian di sini. Oke, kita bisa hanya menjalankan block of code ini. Dan kemudian selanjutnya kita akan menentukan Menemukan jaringan kita, oke. jadi di Keras kita perlu menyebut model ini sequential disini. Dan kemudian menambahkan layer di Keras sangat mudah, kita bisa hanya menggunakan model.add. Dan di line of code ini kita menambahkan layer convolution. Oke, ini adalah jumlah filter. Di layer 1 saya menekan ini, saya pikir kita bisa hanya menurunkan ke nomor yang lebih kecil, misalnya 20, 20, ini 50, ini misalnya 10, dan kemudian ini adalah ukuran filter 5x5 dan ini adalah bentuk shape yang berkorekspon dengan ini. Oke, ini bisa menjadi order input depth image width image height dan juga bisa seperti ini, width height depth. Jadi block of code ini akan deteksi dan kita bisa menyebutkan variable ini untuk digunakan di dalam line of code ini. Oke, dan kemudian kita set padding sama karena kita ingin output layer convolution menjadi ukuran yang sama dari input. Jadi kita bisa menyebutkan seperti ini. Dan ini adalah nama input tensor. Saya memberikan nama input tensor. Oke jadi nanti jika kita ingin menyebutkan tensor kita bisa hanya menyesuaikan input tensor ini. Itulah sebabnya di video sebelumnya saya bisa menyebutkan input tensor dengan menggunakan input tensor. Oke dan kemudian kita menambahkan fungsi aktif yang adalah relu di sini. Oke, dan seterusnya kita tambahkan max pooling dengan menggunakan ukuran 2 x 2u here. Oke, and next we add max pooling by using size of 2 by 2 here. Oke, and then we define the second layer which is similar with this first layer. Oke, and the only difference is this number filter of layer 2 here I define. I also use the same number here. Or you bisa sebenarnya menetapkan nilai lain sendiri oke dan kemudian ini sama sekali dan kita bisa hanya pergi ke layer ketiga, juga kita tambahkan convolution dan kemudian kita tambahkan fungsi aktifitas menggunakan relu di sini dan kemudian kita ingin menambahkan layer yang sepenuhnya Jadi untuk menamb menambah layer yang sudah dihubungkan, kita perlu membatasi output kita di layer yang sudah dihubungkan. Kita bisa menggunakan add flatten seperti ini. Dan kemudian kita menambah layer yang sudah dihubungkan dengan menggunakan line of code ini..add10 di sini dan kemudian jumlah node di layer yang sudah dihubungkan. Dan saya menambah 10 di sini.ini, dan nomor node di layer yang sudah dikoneksi, dan saya taruh 10 disini Oke, dan saya taruh function activation untuk berarti relu Dan untuk outputnya, saya panggil berapa banyak kelas di dataset saya Dengan panggil generator tren saya disini, yang berkaitan dengan generator tren ini akan mendeteksi secara otomatis, dalam hal ini kita memiliki 3 kelas, 0, 1, 2 di sini. Dan kemudian kembali ke kode di sini. Dan kita menekan activation as softmake di sini. Dan kemudian kita memberikan nama sensor ini output sebagai outputTensor.aya kita juga bisa menyebutkan sensor ini untuk mendapatkan sensor prediction. Oke, dan akhirnya kita bisa mengumpilkan jaringan kita dengan menggunakan.compile dan kita menggunakan fungsi loss dengan menggunakan cross entropy kata kodikal. Oke, karena kita memiliki lebih dari dua kelas. Dan kemudian kita menggunakan optimizer menggunakan Stochastic Gradient Descent dan dalam proses latihan kita ingin mencetak akurasi dan di dalam line of code ini kita ingin melihat model summary seperti ini kita bisa mengerjakan block of code ini, klik, ini adalah jaringan kita Oke, dan ini adalah parameter total, parameter trainable,idakkan, dan parameter yang tidak bisa ditidakkan. Kita punya 0 disini. Dan blok berikutnya di sini, kita bisa menginjakan model kita disini dengan menggunakan dataset kita disini, oke, oke, turun, dengan menggunakan API ini, model.fitGenerator, okay? And this is the input argument. This is the train generator correspond to our generator training we ever define here. Okay? And then this is the step per epoch. It corresponds to how dengan berapa banyak image yang kita punya di train generator Divided by bed size Dan ini juga epoch yang kita set 2 epoch di atas Dan ini juga untuk validation yang sama dengan yang ini Kita menggunakan testing generator dan juga langkah nomor validasi, kita menentukan berapa banyak gambar di testing generator dibagi dengan ukuran batch. Oke kita bisa hanya menjalankan block of code dengan mengklik pattern run ini. Oke, kita mulai menggabung accuracy for only small network. Like this one our network. Okay and finally we can save our train model here by using this model.save and we Kita ingin menyimpan model tren ini dengan menggunakan model.save dan kita ingin menyimpan di path directory ini. Oke, kita bisa klik run button untuk menyimpan. Trending sudah selesai, model sudah selesai disimpan. Kita bisa lihat disini, model, kita bisa modifikasi terakhir. Oke, yang ini, model linux 5.85 disini. Oke, itu saja bagaimana kita bisa menggabungkan model Keras dengan menggunakan dataset kita sendiri. Sekali lagi, Anda bisa menggabungkan dataset Anda sendiri, berdasarkan tujuan Anda sendiri. Dan kemudian Anda juga bisa menggabungkan jaringan Anda disini. Oke, dan akhirnya Anda bisa menyimpan dengan menggunakan blok kode ini. Dan kemudian di video berikutnya, saya akan menunjukkan kepada Anda bagaimana Anda bisa menggunakan model yang disimpan di Keras ini untuk melakukan penyimpanan di Keras. Oke, see you in the next video. Субтитры сделал DimaTorzok"
+}
