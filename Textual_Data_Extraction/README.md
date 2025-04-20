@@ -3,7 +3,7 @@
 ![Python 3.11](https://img.shields.io/badge/python-3.11-g) ![pytorch 2.3.0](https://img.shields.io/badge/pytorch-2.3.0-blue.svg) [![docs](https://img.shields.io/badge/docs-latest-blue)](README.md)
 
 <div align="center">
-  <img src="./asserts/1.png" width="1200px"/>
+  <img src="annotation_pipeline.png" width="1200px"/>
 </div>
 
 #### 1. Prepare Dataset
