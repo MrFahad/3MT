@@ -135,8 +135,7 @@ If you find [3MT](https://github.com/MrFahad/3MT.git) is useful in your research
 
 ```bibtex
 @misc{majeed2025_3mt,
-      title={3MT: Multimodal Multitask Learning for Real-Time Soccer Player
-Decision-Making Skills Analytics }, 
+      title={3MT: Multimodal Multitask Learning for Real-Time Soccer Player Decision-Making Skills Analytics}, 
       author={Fahad Majeed, Marco Agus, Jens Schneider},
       year={2025},
 }
