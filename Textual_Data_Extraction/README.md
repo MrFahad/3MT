@@ -1,4 +1,4 @@
-# [IJCV2025] 3MT: Multi-Model Multi-Task Learning for Real-Time Soccer Player Decision-Making Skills Analytics
+# [Scientific Reports] 3MT: Multimodal Multitask Learning for Real-Time Soccer Player Decision-Making Skills Analytics
 
 ![Python 3.11](https://img.shields.io/badge/python-3.11-g) ![pytorch 2.3.0](https://img.shields.io/badge/pytorch-2.3.0-blue.svg) [![docs](https://img.shields.io/badge/docs-latest-blue)](README.md)
 
@@ -135,7 +135,8 @@ If you find [3MT](https://github.com/MrFahad/3MT.git) is useful in your research
 
 ```bibtex
 @misc{majeed2025_3mt,
-      title={3MT: Multi-Model Multi-Task Learning for Real-Time Soccer Player Decision-Making Skills Analytics}, 
+      title={3MT: Multimodal Multitask Learning for Real-Time Soccer Player
+Decision-Making Skills Analytics }, 
       author={Fahad Majeed, Marco Agus, Jens Schneider},
       year={2025},
 }
