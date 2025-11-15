@@ -1,0 +1,1767 @@
+[
+    {
+        "frame_idx": 21,
+        "entropy": -795.011215392505,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 23,
+        "entropy": -795.0386292308083,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 881,
+        "entropy": -793.6284055778258,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 882,
+        "entropy": -793.4369907148645,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 883,
+        "entropy": -792.1854514410172,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 884,
+        "entropy": -792.0209791574396,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 885,
+        "entropy": -790.3733808884562,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 886,
+        "entropy": -790.4336481604955,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 887,
+        "entropy": -788.5446437000187,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 888,
+        "entropy": -788.505251596326,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 889,
+        "entropy": -786.8666164665307,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 890,
+        "entropy": -787.1662601803313,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 891,
+        "entropy": -785.9703904302352,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 892,
+        "entropy": -786.4585465750775,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 893,
+        "entropy": -785.0392871126526,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 894,
+        "entropy": -785.5780689187989,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 895,
+        "entropy": -784.712786084977,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 896,
+        "entropy": -785.0546034561252,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 897,
+        "entropy": -783.2284030342314,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 898,
+        "entropy": -783.5121089043153,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 899,
+        "entropy": -781.6414164502546,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 900,
+        "entropy": -781.0144037876291,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 901,
+        "entropy": -777.7738061665416,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 902,
+        "entropy": -778.8543564923895,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 903,
+        "entropy": -777.7538272531964,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 904,
+        "entropy": -777.6631311565452,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 905,
+        "entropy": -775.8112667403448,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 906,
+        "entropy": -776.6924100813886,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 907,
+        "entropy": -775.716276206315,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 908,
+        "entropy": -776.8222796641749,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 909,
+        "entropy": -775.8184233646056,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 910,
+        "entropy": -776.842298317949,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 911,
+        "entropy": -775.9437718728752,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 912,
+        "entropy": -777.0662928129208,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 913,
+        "entropy": -776.5682121283851,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 914,
+        "entropy": -777.4963432727797,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 915,
+        "entropy": -776.7137907196378,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 916,
+        "entropy": -777.624735943319,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 917,
+        "entropy": -776.9018589170628,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 918,
+        "entropy": -777.768344607852,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 919,
+        "entropy": -777.061448497373,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 920,
+        "entropy": -777.9511206051562,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 921,
+        "entropy": -776.9355717235325,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 922,
+        "entropy": -777.8402413932215,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 923,
+        "entropy": -776.8500708696876,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 924,
+        "entropy": -778.26388927944,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 925,
+        "entropy": -778.360713983927,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 926,
+        "entropy": -779.8276615976913,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 927,
+        "entropy": -779.6339302455508,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 928,
+        "entropy": -780.9018117317473,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 929,
+        "entropy": -780.8820970223823,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 930,
+        "entropy": -782.7837355463832,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 931,
+        "entropy": -782.8462829413195,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 932,
+        "entropy": -784.0032070913724,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 933,
+        "entropy": -784.0316794829206,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 934,
+        "entropy": -784.9718869726628,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 935,
+        "entropy": -784.8621468484632,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 936,
+        "entropy": -786.4328315641312,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 937,
+        "entropy": -786.2342259586901,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 938,
+        "entropy": -787.4201307487647,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 939,
+        "entropy": -786.9773339410278,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 940,
+        "entropy": -788.3884935827853,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 941,
+        "entropy": -787.7229286360861,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 942,
+        "entropy": -789.2213084549144,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 943,
+        "entropy": -789.0698831016348,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 944,
+        "entropy": -790.7345456943108,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 945,
+        "entropy": -790.2335629996779,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 946,
+        "entropy": -791.1492455630877,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 947,
+        "entropy": -790.5645719328537,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 948,
+        "entropy": -791.2539104732289,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 949,
+        "entropy": -790.5655434745989,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 950,
+        "entropy": -791.2042716899655,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 951,
+        "entropy": -790.1749969156959,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 952,
+        "entropy": -790.6276843281672,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 953,
+        "entropy": -789.3121395580217,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 954,
+        "entropy": -789.4782888350909,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 955,
+        "entropy": -788.620669101373,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 956,
+        "entropy": -789.4451552996347,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 957,
+        "entropy": -788.2916473836746,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 958,
+        "entropy": -788.8744154242729,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 959,
+        "entropy": -787.5256521377577,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 960,
+        "entropy": -787.7715337912174,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 961,
+        "entropy": -786.9447660742525,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 962,
+        "entropy": -787.3795834634153,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 963,
+        "entropy": -786.3337161451692,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 964,
+        "entropy": -786.6958267609206,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 965,
+        "entropy": -785.5032243412221,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 966,
+        "entropy": -786.3361735609897,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 967,
+        "entropy": -785.297058646589,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 968,
+        "entropy": -786.1703766259253,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 969,
+        "entropy": -785.2105784481893,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 970,
+        "entropy": -785.7124794065226,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 971,
+        "entropy": -784.5342317067038,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 972,
+        "entropy": -784.8989710753151,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 973,
+        "entropy": -784.3971501330698,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 974,
+        "entropy": -785.346332968401,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 975,
+        "entropy": -784.4731811909005,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 976,
+        "entropy": -785.7274838350218,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 977,
+        "entropy": -784.4892761064347,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 978,
+        "entropy": -784.8501978472605,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 979,
+        "entropy": -784.6577248041084,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 980,
+        "entropy": -785.8487713265205,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 981,
+        "entropy": -785.3825515856131,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 982,
+        "entropy": -786.4587129174887,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 983,
+        "entropy": -785.9131495091374,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 984,
+        "entropy": -787.2190606697619,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 985,
+        "entropy": -787.1819021934984,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 986,
+        "entropy": -788.9522878190036,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 987,
+        "entropy": -788.3747082497782,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 988,
+        "entropy": -790.2376123817586,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 989,
+        "entropy": -789.3987163951557,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 990,
+        "entropy": -790.8851777424447,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 991,
+        "entropy": -790.3143929760123,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 992,
+        "entropy": -791.8240650123727,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 993,
+        "entropy": -790.8255346640244,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 994,
+        "entropy": -791.9863909074217,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 995,
+        "entropy": -790.5241886641047,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 996,
+        "entropy": -791.4828812789502,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 997,
+        "entropy": -790.8342380480619,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 998,
+        "entropy": -791.8148662827019,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 999,
+        "entropy": -790.795929346828,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1000,
+        "entropy": -791.3847464531472,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1001,
+        "entropy": -787.1233316401238,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1002,
+        "entropy": -789.0739609593313,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1003,
+        "entropy": -788.4378399638088,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1004,
+        "entropy": -789.6380782353733,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1005,
+        "entropy": -788.5946961502009,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1006,
+        "entropy": -789.6120889280866,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1007,
+        "entropy": -788.3043882198974,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1008,
+        "entropy": -789.2016564718945,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1009,
+        "entropy": -788.3770389913162,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1010,
+        "entropy": -789.7919775109474,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1011,
+        "entropy": -788.7590573160008,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1012,
+        "entropy": -789.9113027721921,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1013,
+        "entropy": -788.8683631034622,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1014,
+        "entropy": -789.9127535463263,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1015,
+        "entropy": -789.5172877083887,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1016,
+        "entropy": -790.4412011601307,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1017,
+        "entropy": -789.9637773363914,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1018,
+        "entropy": -790.8924609275288,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1019,
+        "entropy": -789.8542883141406,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1020,
+        "entropy": -790.7891449214786,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1021,
+        "entropy": -789.8944762479917,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1022,
+        "entropy": -790.8227104905816,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1023,
+        "entropy": -789.5050931450126,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1024,
+        "entropy": -789.9994530923559,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1025,
+        "entropy": -788.9138390233695,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1026,
+        "entropy": -789.4076965979565,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1027,
+        "entropy": -788.651662069196,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1028,
+        "entropy": -789.3427647047338,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1029,
+        "entropy": -788.50145398571,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1030,
+        "entropy": -789.0148007482724,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1031,
+        "entropy": -787.9198162773743,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1032,
+        "entropy": -788.0698453396776,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1033,
+        "entropy": -787.2389382184117,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1034,
+        "entropy": -788.088954126096,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1035,
+        "entropy": -786.6093850559553,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1036,
+        "entropy": -786.8048896188891,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1037,
+        "entropy": -785.2358118512941,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1038,
+        "entropy": -785.0905981720002,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1039,
+        "entropy": -783.955643348476,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1040,
+        "entropy": -784.4075941161825,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1041,
+        "entropy": -783.3152571174066,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1042,
+        "entropy": -784.112294825551,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1043,
+        "entropy": -783.1478023111689,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1044,
+        "entropy": -784.4803333277728,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1045,
+        "entropy": -783.985540852175,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1046,
+        "entropy": -785.0138427688246,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1047,
+        "entropy": -783.9067767098607,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1048,
+        "entropy": -784.0312194523253,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1049,
+        "entropy": -783.1703691377969,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1050,
+        "entropy": -783.8477802598716,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1051,
+        "entropy": -783.4580811551895,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1052,
+        "entropy": -784.2440220818137,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1053,
+        "entropy": -783.6045859923273,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1054,
+        "entropy": -784.5047283158063,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1055,
+        "entropy": -783.8220167224757,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1056,
+        "entropy": -785.2782429545271,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1057,
+        "entropy": -785.12145293017,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1058,
+        "entropy": -786.645221981844,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1059,
+        "entropy": -785.6949385918,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1060,
+        "entropy": -787.0942655862652,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1061,
+        "entropy": -786.5869802769923,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1062,
+        "entropy": -787.9919999433482,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1063,
+        "entropy": -787.6455790194179,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1064,
+        "entropy": -789.3062226993936,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1065,
+        "entropy": -788.8991131934991,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1066,
+        "entropy": -790.5566447786385,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1067,
+        "entropy": -790.014504418774,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1068,
+        "entropy": -791.1471400111858,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1069,
+        "entropy": -790.8770430820615,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1070,
+        "entropy": -792.1681170502168,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1071,
+        "entropy": -791.9204294170487,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1072,
+        "entropy": -793.2556382622795,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1073,
+        "entropy": -792.5274343704378,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1074,
+        "entropy": -793.5174512446407,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1075,
+        "entropy": -793.0668607465243,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1076,
+        "entropy": -794.1541370162352,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1077,
+        "entropy": -793.4831631167846,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1078,
+        "entropy": -794.6721645414492,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1079,
+        "entropy": -793.6783072857191,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1080,
+        "entropy": -794.6865975841774,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1081,
+        "entropy": -794.3518056546351,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1082,
+        "entropy": -794.764191723796,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1083,
+        "entropy": -794.5521702803577,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1084,
+        "entropy": -794.8609550621862,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1085,
+        "entropy": -794.0476839972391,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1086,
+        "entropy": -794.6520252497935,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1087,
+        "entropy": -794.3914105940634,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1088,
+        "entropy": -794.8379646299089,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1089,
+        "entropy": -794.2640176246316,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1090,
+        "entropy": -794.157495068237,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1091,
+        "entropy": -795.1479121060299,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1092,
+        "entropy": -794.2097810960975,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1094,
+        "entropy": -794.7511227535251,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1096,
+        "entropy": -795.053766964502,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1098,
+        "entropy": -795.2534816321923,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1101,
+        "entropy": -794.9483314253675,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1151,
+        "entropy": -795.2239699513399,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1153,
+        "entropy": -795.077965325188,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1155,
+        "entropy": -794.6778142132118,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1156,
+        "entropy": -794.9394142115771,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1157,
+        "entropy": -794.2051993156688,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1158,
+        "entropy": -794.8253197852064,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1159,
+        "entropy": -794.6017429585191,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1160,
+        "entropy": -794.9759941709069,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1161,
+        "entropy": -794.4410601224666,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1162,
+        "entropy": -795.2003958159515,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1163,
+        "entropy": -793.7584104142603,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1164,
+        "entropy": -794.1450745329814,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1165,
+        "entropy": -793.6114021197186,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1166,
+        "entropy": -793.9817357103223,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1167,
+        "entropy": -793.4328739025976,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1168,
+        "entropy": -793.7104134135408,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1169,
+        "entropy": -792.4294308634953,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1170,
+        "entropy": -792.2781473158691,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1171,
+        "entropy": -792.1182991623776,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1172,
+        "entropy": -793.2032597623619,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1173,
+        "entropy": -791.7522314390676,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1174,
+        "entropy": -792.4506877177706,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1175,
+        "entropy": -790.8215227766935,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1176,
+        "entropy": -791.5447072668194,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1177,
+        "entropy": -790.8482428898267,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1178,
+        "entropy": -792.0125759564463,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1179,
+        "entropy": -791.0812724180174,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1180,
+        "entropy": -792.1806154555504,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1181,
+        "entropy": -790.8897281362079,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1182,
+        "entropy": -792.0721981016429,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1183,
+        "entropy": -791.0308855097504,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1184,
+        "entropy": -792.2486739474091,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1185,
+        "entropy": -791.7309584198822,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1186,
+        "entropy": -793.1902501403168,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1187,
+        "entropy": -793.0111213318278,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1188,
+        "entropy": -794.9788820333536,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1189,
+        "entropy": -795.247734389173,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1901,
+        "entropy": -793.8872808680735,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1902,
+        "entropy": -795.0828852174498,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1903,
+        "entropy": -794.3168552348559,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1905,
+        "entropy": -794.2035738141574,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1906,
+        "entropy": -795.2125931102593,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1907,
+        "entropy": -793.7124681641457,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1908,
+        "entropy": -794.6577029558888,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1909,
+        "entropy": -793.8113236240255,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1910,
+        "entropy": -794.9508910595988,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1911,
+        "entropy": -793.7235113566118,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1912,
+        "entropy": -794.7037481999109,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1913,
+        "entropy": -793.490166144748,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1914,
+        "entropy": -794.4351565881842,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1915,
+        "entropy": -793.4303384460019,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1916,
+        "entropy": -794.3878518051096,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1917,
+        "entropy": -792.9619469898958,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1918,
+        "entropy": -793.5099168720393,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1919,
+        "entropy": -791.9519210795515,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1920,
+        "entropy": -792.8617759600746,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1921,
+        "entropy": -792.0656618105526,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1922,
+        "entropy": -793.2217415128823,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1923,
+        "entropy": -792.5081008371296,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1924,
+        "entropy": -793.5765913998919,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1925,
+        "entropy": -792.8486561759188,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1926,
+        "entropy": -793.7406640879581,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1927,
+        "entropy": -793.209645263966,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1928,
+        "entropy": -794.147008407569,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1929,
+        "entropy": -793.3796457909544,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1930,
+        "entropy": -793.8539151448953,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1931,
+        "entropy": -793.0055156602107,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1932,
+        "entropy": -794.0438975304893,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1933,
+        "entropy": -793.2879869375711,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1934,
+        "entropy": -794.0030390177554,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1935,
+        "entropy": -793.3463370571266,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1936,
+        "entropy": -794.0169429312679,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1937,
+        "entropy": -793.0407915035464,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1938,
+        "entropy": -794.1281824432432,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1939,
+        "entropy": -793.4301221154346,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1940,
+        "entropy": -794.8289206085254,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1941,
+        "entropy": -793.9783397779116,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1942,
+        "entropy": -795.0509521524624,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1943,
+        "entropy": -793.8522783118714,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1944,
+        "entropy": -794.9300529837501,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1945,
+        "entropy": -794.2208051963071,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1946,
+        "entropy": -795.1377085212544,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1947,
+        "entropy": -794.1461400407914,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1948,
+        "entropy": -795.1199006644537,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1949,
+        "entropy": -793.8222606837232,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1950,
+        "entropy": -795.0726073716153,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1951,
+        "entropy": -794.3896785439413,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1953,
+        "entropy": -794.9407993882611,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1955,
+        "entropy": -794.906559102698,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1961,
+        "entropy": -795.2062626455136,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1963,
+        "entropy": -795.0241645781541,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1965,
+        "entropy": -795.0133372960063,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1967,
+        "entropy": -794.9690121854818,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1969,
+        "entropy": -795.1073227512669,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1971,
+        "entropy": -795.0483326207307,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1973,
+        "entropy": -794.5312171719544,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1974,
+        "entropy": -794.955481650652,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1975,
+        "entropy": -794.6273824766695,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1977,
+        "entropy": -794.6431309246366,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1979,
+        "entropy": -794.1021903376363,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1980,
+        "entropy": -794.6650847522616,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1981,
+        "entropy": -794.3688966682115,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1983,
+        "entropy": -794.3998783040548,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1984,
+        "entropy": -795.2249451886888,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1985,
+        "entropy": -794.3833107315264,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1987,
+        "entropy": -794.9335692754221,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1989,
+        "entropy": -795.2601187966235,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1991,
+        "entropy": -795.2145247536353,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1997,
+        "entropy": -795.1252992953487,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 1999,
+        "entropy": -795.2787054937824,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2001,
+        "entropy": -793.3396963490459,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2002,
+        "entropy": -794.7395679262211,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2003,
+        "entropy": -793.7769590054171,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2004,
+        "entropy": -795.1903714453192,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2005,
+        "entropy": -794.1527566037081,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2007,
+        "entropy": -794.6935778026213,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2009,
+        "entropy": -794.7857946871552,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2021,
+        "entropy": -795.1342867935382,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2025,
+        "entropy": -795.1693557186073,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2027,
+        "entropy": -794.382850913486,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2029,
+        "entropy": -794.495223896727,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2031,
+        "entropy": -794.4894175173799,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2033,
+        "entropy": -794.351726492629,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2034,
+        "entropy": -795.2413266765012,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2035,
+        "entropy": -794.3594312346115,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2036,
+        "entropy": -794.9165063296517,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2037,
+        "entropy": -794.1883007879958,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2038,
+        "entropy": -795.0371525187635,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2039,
+        "entropy": -793.6968464619581,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2040,
+        "entropy": -793.8812755143638,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2041,
+        "entropy": -793.5166017003745,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2042,
+        "entropy": -795.0768095057338,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2043,
+        "entropy": -794.1030437700421,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2045,
+        "entropy": -793.8214738438594,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    },
+    {
+        "frame_idx": 2047,
+        "entropy": -794.8668064352445,
+        "parquet_path": "big_6_out_parquet/901122  vs  720P SKY/901122  vs  720P SKY  1st/256x256/frames.parquet"
+    }
+]
