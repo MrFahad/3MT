@@ -1,4 +1,4 @@
-# [Scientific Reports] 3MT: Multimodal Multitask Learning for Real-Time Soccer Player Decision-Making Skills Analytics
+# [Machine Vision and Applications] 3MT: Multimodal Multitask Learning for Real-Time Soccer Player Decision-Making Skills Analytics
 
 ![Python 3.11](https://img.shields.io/badge/python-3.11-g) ![pytorch 2.3.0](https://img.shields.io/badge/pytorch-2.3.0-blue.svg) [![docs](https://img.shields.io/badge/docs-latest-blue)](README.md)
 
